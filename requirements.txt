@@ -1,4 +1,9 @@
-pyrogram
+os
 requests
-wget
-
+base64
+marshal
+random
+zlib
+telebot
+py_compile
+telebot
